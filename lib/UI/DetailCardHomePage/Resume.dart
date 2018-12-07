@@ -14,7 +14,7 @@ class _ResumeState extends State<Resume> {
         title: Text("Resume"),
         centerTitle: true,
       ),
-      url: "https://www.learnhowtobecome.org/",
+      url: "https://www.resume.com/",
     );
   }
 }
